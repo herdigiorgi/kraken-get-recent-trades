@@ -1,4 +1,4 @@
-# 
+# Kraken get-recent-trades
 
 This script generates a CSV like this:
 
